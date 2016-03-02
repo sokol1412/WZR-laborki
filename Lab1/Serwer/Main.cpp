@@ -1,9 +1,9 @@
 #include <iostream>
 
-
+using namespace std;
 
 int main()
 {
-	std::cout << "To jest aplikacja serwera" << std::endl;
+	cout << "To jest aplikacja serwera" << endl;
 	return 0;
 }
