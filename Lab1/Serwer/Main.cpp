@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-	cout << "To jest test GitHuba" << endl;
+	cout << "To jest aplikacja serwera" << endl;
 	return 0;
 }
